@@ -88,7 +88,7 @@ For comprehensive guidance on Prisma, refer to the official documentation at [ht
 # Folder Structure
 
 ```bash
-dvhq-web/
+dvhq-backend/
 │
 ├── prisma/                # Prism schema and migration files
 │   └── schema.prisma
